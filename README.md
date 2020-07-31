@@ -16,4 +16,3 @@ Libraries used:
   - Bz2: used for compression.
   - Flask, jsonify: Use to interact with the web application
    
-Screenshots:
